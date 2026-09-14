@@ -33,6 +33,14 @@ Aprendiz de **Análisis y Desarrollo de Software (ADSO)** en el SENA. Me apasion
 
 </div>
 
+## 🐍 Actividad
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/ItsJuan161/ItsJuan161/output/github-snake-dark.svg)
+
+</div>
+
 ## 🔥 Proyectos destacados
 
 - 🧮 [**Calculadora-Fisica**](https://github.com/ItsJuan161/Calculadora-Fisica) — API REST + interfaz en React para calcular operaciones físicas
