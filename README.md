@@ -33,27 +33,12 @@ Aprendiz de **Análisis y Desarrollo de Software (ADSO)** en el SENA. Me apasion
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ItsJuan161&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJuan161&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsJuan161&theme=radical&hide_border=true" />
-
-</div>
-
 ## 🔥 Proyectos destacados
 
-<div align="center">
-
-[![Calculadora](https://github-readme-stats.vercel.app/api/pin/?username=ItsJuan161&repo=Calculadora-Fisica&theme=radical&hide_border=true)](https://github.com/ItsJuan161/Calculadora-Fisica)
-[![Gestor](https://github-readme-stats.vercel.app/api/pin/?username=ItsJuan161&repo=Gestor-Tareas&theme=radical&hide_border=true)](https://github.com/ItsJuan161/Gestor-Tareas)
-[![Invitacion](https://github-readme-stats.vercel.app/api/pin/?username=ItsJuan161&repo=Invitacion-Boda&theme=radical&hide_border=true)](https://github.com/ItsJuan161/Invitacion-Boda)
-[![JdLuxury](https://github-readme-stats.vercel.app/api/pin/?username=ItsJuan161&repo=Jd-Luxury&theme=radical&hide_border=true)](https://github.com/ItsJuan161/Jd-Luxury)
-
-</div>
+- 🧮 [**Calculadora-Fisica**](https://github.com/ItsJuan161/Calculadora-Fisica) — API REST + interfaz en React para calcular operaciones físicas
+- ✅ [**Gestor-Tareas**](https://github.com/ItsJuan161/Gestor-Tareas) — Gestor de tareas con React, Tailwind y persistencia local
+- 💍 [**Invitacion-Boda**](https://github.com/ItsJuan161/Invitacion-Boda) — Invitación digital de boda, publicada en producción
+- ⌚ [**Jd-Luxury**](https://github.com/ItsJuan161/Jd-Luxury) — Página web de catálogo de relojes
 
 ## 📫 ¡Hablemos!
 
