@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:eab308&height=200&section=header&text=Juan%20David%20Perdomo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20ADSO%20%7C%20Frontend%20%26%20Backend&descAlignY=58&descSize=18)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:eab308&height=200&section=header&text=Juan%20David%20Perdomo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20ADSO%20%7C%20Frontend%20y%20Backend&descAlignY=58&descSize=18)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-perdomo-valencia-62a13a437/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_juanvp)
