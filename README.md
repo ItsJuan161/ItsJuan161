@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Juan David 👋
 
-<!--
-**ItsJuan161/ItsJuan161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aprendiz de **Análisis y Desarrollo de Software (ADSO)** en el SENA — Ficha 3225853.
 
-Here are some ideas to get you started:
+Estoy aprendiendo a construir aplicaciones full-stack, desde APIs REST hasta interfaces interactivas con React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías con las que trabajo
+
+- **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express
+- **Control de versiones:** Git & GitHub
+
+## 📌 Proyectos destacados
+
+- 🧮 [**Calculadora-Fisica**](https://github.com/ItsJuan161/Calculadora-Fisica) — API REST + interfaz en React para calcular operaciones físicas
+- ✅ [**Gestor-Tareas**](https://github.com/ItsJuan161/Gestor-Tareas) — Gestor de tareas con React, Tailwind y persistencia local
+- 💍 [**Invitacion-Boda**](https://github.com/ItsJuan161/Invitacion-Boda) — Invitación digital de boda, publicada en producción
+- ⌚ [**Jd-Luxury**](https://github.com/ItsJuan161/Jd-Luxury) — Página web de catálogo de relojes
+
+## 📫 Contáctame
+
+- Correo: juandavidpv2006@gmail.com
