@@ -44,13 +44,13 @@ const juan = {
 
 Aprendiz de Análisis y Desarrollo de Software (ADSO) en el SENA, apasionado por construir aplicaciones full-stack. Me especializo en desarrollo web con un enfoque creciente en backend, y disfruto cada línea de código como una oportunidad de aprendizaje.
 
----
+----
 
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,flutter,dart" />
 </p>
 
 ### ⚙️ Backend
@@ -58,12 +58,12 @@ Aprendiz de Análisis y Desarrollo de Software (ADSO) en el SENA, apasionado por
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Herramientas
+### 🗄️ Bases de Datos & Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,vscode,postman,figma" />
 </p>
 
----
+----
 
 ## 📊 GitHub Stats
 
