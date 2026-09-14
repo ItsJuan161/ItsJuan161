@@ -1,125 +1,174 @@
-<div align="center">
+<!-- Banner animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Manuel%20Alejandro%20Vargas&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Mobile%20%7C%20Backend&descAlignY=55&descAlign=50" width="100%"/>
+</p>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:eab308&height=200&section=header&text=Juan%20David%20Perdomo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20ADSO%20%7C%20Frontend%20y%20Backend&descAlignY=58&descSize=18)
+<!-- Typing effect -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Manuel+%F0%9F%91%8B;Aprendiz+ADSO+SENA+%F0%9F%92%BB;Aprendiendo+React%%F0%9F%93%B1;Backend+con+NestJS+%F0%9F%94%A5;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-perdomo-valencia-62a13a437/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_juanvp)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573134649223)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandavidpv2006@gmail.com)
+<!-- Badges sociales -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/manuel-vargas-noriega" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/alejandr0_vargas" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/573183682952" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:manuelalejandro.vargas08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+</p>
 
-</div>
+---
 
 ## 🚀 Sobre mí
 
-```js
-const juan = {
-  nombre: "Juan David Perdomo Valencia",
-  ubicacion: "Pitalito, Huila, Colombia",
-  rol: "Estudiante ADSO - SENA",
-  ficha: "3225853",
-  stack: ["React", "Node.js", "Express", "Tailwind CSS"],
+```typescript
+const manuel = {
+  nombre: "Manuel Alejandro Vargas",
+  ubicacion: "Colombia 🇨🇴",
+  rol: "Full Stack Developer",
+  pasion: "Convertir ideas en código funcional",
+  stack: ["React", "Flutter", "NestJS", "TypeScript"],
   aprendiendo: "Siempre algo nuevo 🚀",
   filosofia: "El código limpio es poesía para máquinas"
 };
 ```
 
-Aprendiz de **Análisis y Desarrollo de Software (ADSO)** en el SENA. Me apasiona construir aplicaciones full-stack, desde APIs REST hasta interfaces interactivas, y aprender nuevas herramientas en el camino.
+Soy un desarrollador apasionado por crear soluciones tecnológicas que impacten. Me especializo en el desarrollo de aplicaciones web y móviles, con un fuerte enfoque en el backend robusto y escalable. Disfruto cada línea de código como una oportunidad de aprendizaje.
+
+---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### 💻 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart" />
+</p>
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
 
-**Backend**
+### 🗄️ Bases de Datos & Herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,vscode,postman,figma" />
+</p>
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express)
-
-**Herramientas**
-
-![Skills](https://skillicons.dev/icons?i=git,github,vscode)
+---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandroVargas08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroVargas08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="180" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ItsJuan161&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJuan161&layout=compact&theme=radical&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroVargas08&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="70%" />
+</p>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=ItsJuan161&theme=radical&hide_border=true" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alejandroVargas08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" width="100%" />
+</p>
 
-</div>
+---
 
-## 🐍 Actividad
+## 🔥 Proyectos Destacados
 
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/ItsJuan161/ItsJuan161/output/github-snake-dark.svg)
-
-</div>
-
-## 🔥 Proyectos destacados
-
-<table align="center">
-<tr>
-<td width="50%">
-
-**🧮 Calculadora-Fisica**
-
-[![Ver](https://img.shields.io/badge/VER%20REPOSITORIO-eab308?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ItsJuan161/Calculadora-Fisica)
-
-API REST + interfaz en React para calcular operaciones físicas.
-
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td width="50%">
-
-**✅ Gestor-Tareas**
-
-[![Ver](https://img.shields.io/badge/VER%20REPOSITORIO-eab308?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ItsJuan161/Gestor-Tareas)
-
-Gestor de tareas con React, Tailwind y persistencia local.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**💍 Invitacion-Boda**
-
-[![Ver](https://img.shields.io/badge/VER%20REPOSITORIO-eab308?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ItsJuan161/Invitacion-Boda)
-
-Invitación digital de boda, publicada en producción.
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-<td width="50%">
-
-**⌚ Jd-Luxury**
-
-[![Ver](https://img.shields.io/badge/VER%20REPOSITORIO-eab308?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ItsJuan161/Jd-Luxury)
-
-Página web de catálogo de relojes.
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌾 Agrosoft Backend</h3>
+      <div align="center">
+        <a href="https://github.com/alejandroVargas08/Agrosoft_Backend_Investigacion" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br><br>
+        <p>Backend robusto para investigación agrícola. Arquitectura escalable con NestJS y TypeScript.</p>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📱 ContaTibiti</h3>
+      <div align="center">
+        <a href="https://github.com/alejandroVargas08/ContaTibiti" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br><br>
+        <p>Multiplataforma para gestión financiera de fincas. Control total de tus cuentas.</p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ Proyecto Antigravity</h3>
+      <div align="center">
+        <a href="https://github.com/alejandroVargas08/Proyecto_Antigravity" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br><br>
+        <p>Proyecto académico para fortalecer habilidades de desarrollo. Aprendizaje en acción.</p>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎮 Pokedex App</h3>
+      <div align="center">
+        <a href="https://github.com/alejandroVargas08/Pokedex_Trabajo" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br><br>
+        <p>Trabajo final interactivo con los 100 primeros Pokémon. ¡Atrápalos todos!</p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      </div>
+    </td>
+  </tr>
 </table>
+
+---
+
+## 🐍 Contribuciones
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejandroVargas08/alejandroVargas08/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alejandroVargas08/alejandroVargas08/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/alejandroVargas08/alejandroVargas08/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
 
 ## 📫 ¡Hablemos!
 
-<div align="center">
+<p align="center">
+  <a href="https://wa.me/573183682952">
+    <img src="https://img.shields.io/badge/Escríbeme%20por%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/manuel-vargas-noriega">
+    <img src="https://img.shields.io/badge/Conectemos%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-[![WhatsApp](https://img.shields.io/badge/ESCRÍBEME%20POR%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573134649223)
-[![LinkedIn](https://img.shields.io/badge/CONECTEMOS%20EN%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-perdomo-valencia-62a13a437/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alejandroVargas08&label=Visitas%20al%20perfil&color=00D9FF&style=flat" alt="Profile views" />
+</p>
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=ItsJuan161&color=eab308&style=flat)
-
-</div>
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:eab308,100:0f172a&height=100&section=footer)
+<!-- Footer animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" width="100%"/>
+</p>
